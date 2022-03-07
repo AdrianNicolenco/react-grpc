@@ -67,7 +67,3 @@ You must install the following on your local machine:
 1. On the Terminal, go into the project's root folder (`cd /project/root/folder`) and execute `npm start`. The start script will install all npm dependencies for all projects, lint the code, transpile the code, build the artifacts (Docker images) and run all of them via `docker-compose`.
 
 2. Once the start script is done, the GraphQL Playground will be running on [http://localhost:3000](http://localhost:3000)
-
-### Video Demo (old)
-
-[![GraphQL + gRPC Microservices](https://raw.githubusercontent.com/benjsicam/nodejs-graphql-microservices/master/docs/img/vid-preview.jpg)](https://youtu.be/SuH2K92FOaE)
